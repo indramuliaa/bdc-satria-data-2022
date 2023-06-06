@@ -31,4 +31,4 @@ Kami berharap bahwa repositori ini dapat menjadi sumber pengetahuan yang berguna
 > "Big data ibarat wanita, mudah dicinta sulit dianalisa" ~ Indra 2023
 
 
-***<center><h2>SEKIAN TERIMA KASIH!</h2></center>*
+**<center><h2>SEKIAN TERIMA KASIH!</h2></center>**
